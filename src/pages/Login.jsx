@@ -23,11 +23,10 @@ const  Login = () => {
 
     useEffect ( () => {
         if(isError){
-            toast.error(message);
+            toast.error(message, {hideProgressBar: true, autoClose: 2000});
         }
         if(isSuccess || user){
             navigate('/');
-            
         }
         dispatch(reset());
     }, [user, isError, isSuccess, message, navigate, dispatch])

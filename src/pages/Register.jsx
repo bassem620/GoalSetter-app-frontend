@@ -25,7 +25,7 @@ const Register = () => {
 
     useEffect ( () => {
         if(isError){
-            toast.error(message);
+            toast.error(message, {hideProgressBar: true, autoClose: 2000});
         }
         if(isSuccess || user){
             navigate('/');
