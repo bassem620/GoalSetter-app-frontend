@@ -1,6 +1,8 @@
 {
+  "homepage": "https://bassem620.github.io/GoalSetter-app-frontend",
   "name": "frontend",
   "version": "0.1.0",
+  "proxy": "https://goalsetter-eg.herokuapp.com",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
