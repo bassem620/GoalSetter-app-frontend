@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/GoalSetter-app-frontend/static/css/main.40e5d720.css",
-    "main.js": "/GoalSetter-app-frontend/static/js/main.e166026e.js",
-    "index.html": "/GoalSetter-app-frontend/index.html",
-    "main.40e5d720.css.map": "/GoalSetter-app-frontend/static/css/main.40e5d720.css.map",
-    "main.e166026e.js.map": "/GoalSetter-app-frontend/static/js/main.e166026e.js.map"
+    "main.css": "/static/css/main.40e5d720.css",
+    "main.js": "/static/js/main.e166026e.js",
+    "index.html": "/index.html",
+    "main.40e5d720.css.map": "/static/css/main.40e5d720.css.map",
+    "main.e166026e.js.map": "/static/js/main.e166026e.js.map"
   },
   "entrypoints": [
     "static/css/main.40e5d720.css",
